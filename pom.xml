@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>CurrencyConverter</finalName>
+    <finalName>CurrencyConverter_shivangi</finalName>
   </build>
 </project>
