@@ -22,6 +22,7 @@
         <option value="INR">Indian Rupee (INR)</option>
         <option value="GBP">Pound sterling (GBP)</option>
         <option value="GBP">Pound sterling</option>
+        <option value="POC">Poc</option>
     </select>
  </div>
  <input type="text" ng-model="amount"  class="form-control" style="width:20% !important"/>
@@ -37,6 +38,7 @@
         <option value="INR">Indian Rupee (INR)</option>
         <option value="GBP">Pound sterling (GBP)</option>
         <option value="GBP">Pound sterling</option>
+        <option value="POC">Poc</option>
        
     </select>
  </div>
